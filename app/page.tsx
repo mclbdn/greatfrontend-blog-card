@@ -13,7 +13,7 @@ export default function Home() {
 const BlogCard = () => {
   return (
     <div className="w-[340px] bg-white h-[504px] rounded-lg">
-      <div className="w-[340px] relative h-[280px]">
+      <div className="w-[340px] relative h-[288px]">
         <Image
           src={"/assets/unsplash.jpg"}
           priority
